@@ -34,4 +34,4 @@ Let's connect! I am actively seeking opportunities in the Cybersecurity Analyst 
 
 * **LinkedIn:** [Madhur Kanoje's Profile](https://www.linkedin.com/in/madhur-kanoje-1ab221299/)
 * **Email:** madhurkanoje672@gmail.com
-* **Resume:** [Link to your Resume PDF hosted in a separate public GitHub repo or cloud storage]
+* **Resume:** 
